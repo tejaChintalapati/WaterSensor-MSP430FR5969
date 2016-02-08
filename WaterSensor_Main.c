@@ -39,16 +39,16 @@
  *	Description: This program will light up Green LED(P1.0) if water is present
  *				 Else, it'll light up Red LED
  *
- *             MSP430FR5969
- *          	  -----------------
- *         		 |              XIN|-
- *         		 |                 |
- *         		 |             XOUT|-
- *         		 |                 |
- *    	   		 |             P2.4|<--> Water Sensor
- *		   		 |				   |
- * Green LED  <--|P1.0		   P4.6|--> Red LED
- *				 |			 	   |
+ *             	             	     MSP430FR5969
+ *          	  	  	  -----------------
+ *         		 	 |              XIN|-
+ *         			 |                 |
+ *         			 |             XOUT|-
+ *         			 |                 |
+ *    	   		 	 |             P2.4|<--> Water Sensor
+ *		   		 |		   |
+ * 		   Green LED  <--|P1.0	       P4.6|--> Red LED
+ *				 |		   |
  *
  */
 
