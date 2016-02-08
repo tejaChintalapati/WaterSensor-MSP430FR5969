@@ -1,11 +1,11 @@
 /*
- * 	Flame.c
+ * 	Water.c
  *
  *  Created on: Feb 05, 2016
  *  Author: Teja Chintalapati
  *	Contact: teja.chintalapati@gmail.com
  *	Phone: +91-8792-355-512
- *	Description: Contains code to handle Flame Sensor Interrupt
+ *	Description: Contains code to handle Water Sensor Interrupt
  *
  */
 
